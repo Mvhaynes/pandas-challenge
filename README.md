@@ -1,75 +1,18 @@
 # pandas-challenge
 
-District Summary
-
-Create a high level snapshot (in table form) of the district's key metrics, including:
-
-Total Schools
-Total Students
-Total Budget
-Average Math Score
-Average Reading Score
-% Passing Math (The percentage of students that passed math.)
-% Passing Reading (The percentage of students that passed reading.)
-% Overall Passing (The percentage of students that passed math and reading.)
+This script provides an overview of key metrics about each school within the district. 
 
 
+Top Performing Schools highlights the top 5 performing schools based on overall passing rate. 
+
+Bottom Performing Schools highlights the bottom 5 performing schools based on overall passing rate. 
+
+Math Scores by Grade breaks down the average scores in math each grade level for each school. 
+
+Reading Scores by Grade breaks down the average scores in reading across each grade level for each school. 
 
 
-School Summary
-
-Create an overview table that summarizes key metrics about each school, including:
-
-School Name
-School Type
-Total Students
-Total School Budget
-Per Student Budget
-Average Math Score
-Average Reading Score
-% Passing Math (The percentage of students that passed math.)
-% Passing Reading (The percentage of students that passed reading.)
-% Overall Passing (The percentage of students that passed math and reading.)
-
-
-
-
-Top Performing Schools (By % Overall Passing)
-
-Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
-
-School Name
-School Type
-Total Students
-Total School Budget
-Per Student Budget
-Average Math Score
-Average Reading Score
-% Passing Math (The percentage of students that passed math.)
-% Passing Reading (The percentage of students that passed reading.)
-% Overall Passing (The percentage of students that passed math and reading.)
-
-
-
-
-Bottom Performing Schools (By % Overall Passing)
-
-Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
-
-
-Math Scores by Grade**
-
-Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-
-
-Reading Scores by Grade
-
-Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-
-
-Scores by School Spending
-
-Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+Scores by School Spending breaks down school performances based on average Spending Ranges (Per Student) by three spending brackets. 
 
 Average Math Score
 Average Reading Score
