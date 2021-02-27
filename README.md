@@ -1,4 +1,4 @@
-# pandas-challenge
+# City School Comparisons
 
 This data analysis provides an overview of 15 schools within a particular district and breaks down the data to take a closer look at the contributing factors to differences in students’ scores in math and reading, the percentage of students passing math and reading, and the percentage of students passing overall. Using student outcome data along with information about each schools’ budget, type, and size, we can evaluate the factors that lead to increased student success to make decisions to improve student outcomes within the district. 
 
