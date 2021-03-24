@@ -17,9 +17,13 @@ Average math scores are similar across grade levels in all 15 schools, but the p
 
 Another trend that can be seen is the difference in overall passing rates between charter and district schools. Charter schools, which on average hold fewer students and have a lower per-student budget, have an overall passing rate of 90.4% while district schools have an overall passing rate of only 53.7%. This trend can also be seen in the breakdown of spending ranges, with the lower bracket of spending per student between $550-$599, all of which are charter schools, have a higher overall passing rate in comparison to schools with higher spending per student.  
 
+## Tools
 
+Pandas, Numpy
 
-
+## Data 
+[School data](Resources/school_info.csv)
+[Student data](Resources/student_info.csv)
 
 
 
